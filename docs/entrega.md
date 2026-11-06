@@ -64,6 +64,8 @@ contraste AA.»
 
 ## 4. Código fuente
 
+Repositorio en GitHub: https://github.com/SangonapouSchool/campus-hub-next
+
 Carpeta `campus-hub/` (Next.js 15, React 19, TypeScript y Tailwind CSS 4). Para ejecutarlo:
 `npm install` y luego `npm run dev`. `npm run lint` y `npm run build` pasan sin errores.
 
